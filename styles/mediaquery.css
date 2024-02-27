@@ -7,6 +7,7 @@
     
     section#login {
         width: 80vw;
+        height: 370px;
     }
 
     section#login > div#imagem {
@@ -23,6 +24,7 @@
 
     div#forms > p {
         font-size: 1em;
+        margin: 20px 0px;
         text-align: center;
     }
 }
@@ -34,6 +36,7 @@
 
     section#login {
         width: 920px;
+        height: 395px;
     }
 
     section#login > div#imagem {
@@ -49,6 +52,7 @@
 
     div#forms > p {
         font-size: 1em;
+        margin: 20px 0px;
         text-align: center;
     }
 }
