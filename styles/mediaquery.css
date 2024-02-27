@@ -20,6 +20,11 @@
         float: right;
         width: 60%;
     }
+
+    div#forms > p {
+        font-size: 1em;
+        text-align: center;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -40,5 +45,10 @@
     section#login > div#forms {
         float: left;
         width: 50%;
+    }
+
+    div#forms > p {
+        font-size: 1em;
+        text-align: center;
     }
 }

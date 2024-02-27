@@ -67,7 +67,18 @@ div#forms > h1 {
 }
 
 div#forms > p {
-    font-size: 1em;
+    font-size: 0.7em;
     text-align: center;
+    
+}
+
+section#login > div#logo {
+    display: block;
+    position: relative; 
+    background-image: url(../images/logoprojeto.png);
+    background-size: 50%;
+    background-position: center bottom;
+    margin-top: 20px;
+    z-index: 1;
     
 }
