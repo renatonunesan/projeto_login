@@ -95,10 +95,11 @@ div.campo > input {
     font-size: 1em;
     width: calc(100% - 44px);
     height: 100%;
+    margin-left: 43px;
     border: 0%;
     border-radius: 8px;
-    padding: 3px;
-    transform: translateY(-10px);
+    padding: 5px;
+    transform: translateY(-42px);
 }
 
 form > input[type=submit] {
